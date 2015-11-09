@@ -1,0 +1,23 @@
+name: creativeslant
+favicon: null
+layout_spectrum: 0.46764932945370674
+typography_spectrum: 0.9107442442327738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.26086260564625263
+  lightness: 0.28861300088465214
+  saturation: 0.93945501325652
+  rhythmicContrast: 0.46952488902024925
+purpose: []
