@@ -1,23 +1,35 @@
-name: creativeslant
 favicon: null
-layout_spectrum: 0.46764932945370674
-typography_spectrum: 0.9107442442327738
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: creativeslant
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.26086260564625263
-  lightness: 0.28861300088465214
-  saturation: 0.93945501325652
-  rhythmicContrast: 0.46952488902024925
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.93945501325652
+  brandStrength: 0.2608626056462526
+  rhythmicContrast: 0.4695248890202492
+  brandColors: []
+  lightness: 0.2886130008846521
+typography_spectrum: 0.9107442442327738
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9569892
+analytics:
+  twitter: null
+  google: null
+  facebook: null
