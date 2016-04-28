@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: creativeslant
 favicon: null
+name: creativeslant
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4121864
-layout_spectrum: 0.9569892
+layout_spectrum: 0.7473118
