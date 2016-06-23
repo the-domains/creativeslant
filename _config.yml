@@ -1,5 +1,8 @@
-title: 'creativeslant.com | zachary jean paradis'
-purpose: []
+name: creativeslant
+favicon: null
+layout_spectrum: 0.7473118
+typography_spectrum: 0.71705
+title: creativeslant.com | zachary jean paradis
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.2608626056462526
-  rhythmicContrast: 0.5
   brandColors:
     - '#3b5375'
     - '#da5431'
     - '#e0e6dc'
     - '#120403'
     - '#96a4b7'
+  brandStrength: 0.2608626056462526
   lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: creativeslant
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4121864
-layout_spectrum: 0.7473118
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
